@@ -1,4 +1,4 @@
-![gw2-logo](gw2-logo.jpeg)
+![Galaxy Wars Logo](gw-logo.jpeg)
 # gw2-resourcepack
 The resource pack the Galaxy Wars: The Remake server uses.
 
